@@ -1,0 +1,1 @@
+This is an adaptive Wilson-Cowan continuum, implemented on a line with Dirichlet boundary conditions, an excitatory, and inhibitory population of neurons per position on the line. The excitatory population is equipped with a fatigue mechanism that includes a spatial gradient where the strength of the mechanism is strongest at position 0 and gradually weakens along the space.
